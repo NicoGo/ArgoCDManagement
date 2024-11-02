@@ -11,7 +11,7 @@ spec:
     path: dev
   destination:
     server: https://kubernetes.default.svc
-    namespace: fast-api
+    namespace: myapp
 
   syncPolicy: # To create the namespace automatically
     syncOptions:
