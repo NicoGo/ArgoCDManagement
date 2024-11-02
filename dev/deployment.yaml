@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nicolasgo/fast-api:28
+        image: nicolasgo/fast-api:29
         ports:
         - containerPort: 8080
