@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: nicolasgo/fast-api:24`
+        image: nicolasgo/fast-api:25
         ports:
         - containerPort: 8080
       imagePullSecrets:
