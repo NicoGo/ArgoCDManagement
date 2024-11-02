@@ -17,5 +17,3 @@ spec:
         image: nicolasgo/fast-api:27
         ports:
         - containerPort: 8080
-      imagePullSecrets:
-        - name: regcred
